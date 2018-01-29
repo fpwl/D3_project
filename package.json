@@ -1,0 +1,20 @@
+{
+  "name": "d3_project",
+  "version": "1.0.0",
+  "description": "D3 project learning",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "d3",
+    "data",
+    "visulisation"
+  ],
+  "author": "Florence Lo",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1"
+  }
+}
